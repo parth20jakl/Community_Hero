@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "A collaborative platform for reporting and routing local civic issues, featuring automated photo classification by Gemini, interactive high-fidelity maps, community confirmations, and performance dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
